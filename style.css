@@ -1,0 +1,16 @@
+body,html
+		{ background: url("pictures/backgroundimg.jpg") no-repeat center center fixed;
+			background-color: coral;
+			-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size: cover;
+		
+		}
+		.bg {
+
+			height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
